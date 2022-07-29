@@ -18,5 +18,6 @@
 
 <h2>🔨 이런 걸 만들어 봤어요!</h2>
 <ul>
-    <li>Discord Anti Automated Spamming ( FastAPI, HTML, CSS, JS, MySQL )</li>
+    <li>Discord Anti-Spamming ( FastAPI, HTML, CSS, JS, MySQL )</li>
+    <li>Plant Identification & shopping service ( Backend )</li>
 </ul>
