@@ -35,3 +35,14 @@
         <li>Developed <b>Backend Part</b> and Helped <b>User Interface Designing</b>.</li>
     </ul>
 </ul>
+
+<h3>🏆 Awards</h3>
+<ul>
+    <li><b>한세고 교내 해커톤 (HANSEITHON:O)</b> 생활 부문 우수상 (2등)</li>
+    <li><b>2022 보안관제 교내 CTF</b> 우수상 (2등)</li>
+    <li><b>SmarTeen+ App Challenge 2022</b> 생활정보 부문 대상 (중소벤처기업부 장관상)</li>
+</ui/>
+</ulㅛ>
+</ulㄴ>
+</ulㅐ>
+</ul>
