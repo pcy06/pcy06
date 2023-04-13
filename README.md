@@ -1,23 +1,37 @@
-<h1>안녕하세요 👋</h2>
-<h3>저는, 일단 실전에 뛰어들어 배우는 개발자입니다 :)</h3>
+![Group 1](https://user-images.githubusercontent.com/44970486/231659718-2a511dcb-97af-46c5-8967-616949f208fe.png)
 
-<h2>이런 것들을 주로 사용해요!</h2>
-<div>
-    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp
-</div>
+<h3>👋 About Me</h3>
 
-<h2>이런 것들을 이해할 수 있어요!</h2>
-<div>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=C+Sharp&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
-</div>
-
-<h2>이런 걸 만들어 봤어요!</h2>
 <ul>
-    <li>Discord Anti-Spamming ( FastAPI, HTML, CSS, JS, MySQL )</li>
-    <li>Plant Identification & shopping service ( Backend )</li>
+    <li>I'm Park Chanyoung, Web Backend Developer.</li>
+    <li>I Really love <b>Programming With HTML.</b></li>
+    <li>I'm also Interested in <b>Web Frontend, Cloud Computing.</b></li>
+</ul>
+
+<h3>💻 Things that I can do</h3>
+<ul>
+    <li>My main language is <b>Python.</b></li>
+    <li>I can build web backend using <b>Django / Flask / FastAPI.</b></li>
+    <li>I can manage database with <b>MySQL using SQLAlchemy.</b></li>
+    <li>I can deploy the Application I built using <b>AWS / Naver Cloud Platform.</b></li>
+</ul>
+
+<h3>📦 My Projects</h3>
+<ul>    
+    <li><b>Discord Anti-spamming Service</b> : 21.05 ~ 22.06</b></li>
+    <ul>
+        <li>I learned various things about <b>Anti-bot, Anti-DDoS</b> with this project.</li>
+        <li>I Protected <b>100+ Spamming attempts</b> and <b>5+ DDoS Attacks</b> in total.</li>
+        <li>learned many things about <b>AWS</b> with this project.</li>
+    </ul><br>
+    <li><b><a href="https://github.com/stastarc">미니마 (STAC+ 2022)</a></b> : 22.05 ~ 22.10</li>
+    <ul>
+        <li>Developed <b>Backend Part</b> and Helped <b>User Interface Designing</b>.</li>
+        <li>Got <b>First prize</b> on <b>STAC+ 2022</b> with this project!</li>
+        <li>learned many things about <b>Database, ORM, OOP</b> by this project.</li>
+    </ul><br>
+    <li><a href="https://github.com/hansei-book-management"><b>HANBOOK 교내 자율동아리 도서관리 시스템</b></a> : 22.04 ~</b></li>
+    <ul>
+        <li>Developed <b>Backend Part</b> and Helped <b>User Interface Designing</b>.</li>
+    </ul>
 </ul>
