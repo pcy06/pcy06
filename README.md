@@ -18,12 +18,6 @@
 
 <h3>📦 My Projects</h3>
 <ul>    
-    <li><b>Discord Anti-spamming Service</b> : 21.05 ~ 22.06</b></li>
-    <ul>
-        <li>I learned various things about <b>Anti-bot, Anti-DDoS</b> with this project.</li>
-        <li>I Protected <b>100+ Spamming attempts</b> and <b>5+ DDoS Attacks</b> in total.</li>
-        <li>learned many things about <b>AWS</b> with this project.</li>
-    </ul><br>
     <li><b><a href="https://github.com/stastarc">미니마 (STAC+ 2022)</a></b> : 22.05 ~ 22.10</li>
     <ul>
         <li>Developed <b>Backend Part</b> and Helped <b>User Interface Designing</b>.</li>
