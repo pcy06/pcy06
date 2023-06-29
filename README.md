@@ -11,8 +11,8 @@
 <ul>
     <li>My main language is <b>Python.</b></li>
     <li>I can build web backend using <b>Django / Flask / FastAPI.</b></li>
-    <li>I can manage database with <b>MySQL using SQLAlchemy.</b></li>
-    <li>I can deploy the Application I built using <b>AWS / Naver Cloud Platform.</b></li>
+    <li>I can manage database with <b>MySQL / SQLAlchemy</b></li>
+    <li>I can deploy the Application I built using <b>AWS.</b></li>
 </ul>
 
 <h3>📦 My Projects</h3>
