@@ -4,8 +4,7 @@
 
 <ul>
     <li>I'm Park Chanyoung, Web Backend Developer.</li>
-    <li>I Really love <b>Programming With HTML.</b></li>
-    <li>I'm also Interested in <b>Web Frontend, Cloud Computing.</b></li>
+    <li>I'm also Interested in <b>Web Frontend</b> that can provide awosome UX to users ✨</li>
 </ul>
 
 <h3>💻 Things that I can do</h3>
@@ -23,10 +22,6 @@
         <li>Developed <b>Backend Part</b> and Helped <b>User Interface Designing</b>.</li>
         <li>Got <b>First prize</b> on <b>STAC+ 2022</b> with this project!</li>
         <li>learned many things about <b>Database, ORM, OOP</b> by this project.</li>
-    </ul><br>
-    <li><a href="https://github.com/hansei-book-management"><b>HANBOOK 교내 자율동아리 도서관리 시스템</b></a> : 22.04 ~</b></li>
-    <ul>
-        <li>Developed <b>Backend Part</b> and Helped <b>User Interface Designing</b>.</li>
     </ul>
 </ul>
 
