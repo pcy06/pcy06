@@ -4,7 +4,7 @@
 
 <ul>
     <li>I'm Park Chanyoung, Web Backend Developer.</li>
-    <li>I'm also Interested in <b>Web Frontend</b> that can provide awosome UX to users ✨</li>
+    <li>I'm also Interested in <b>Web Frontend</b> that can provide awesome UX to users ✨</li>
 </ul>
 
 <h3>💻 Things that I can do</h3>
