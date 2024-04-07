@@ -18,11 +18,19 @@
 
 <h3>📦 My Projects</h3>
 <ul>    
-    <li><b><a href="https://github.com/stastarc">미니마 (STAC+ 2022)</a></b> : 22.05 ~ 22.10</li>
+    <li><b><a href="https://github.com/stastarc">미니마 (STAC+ 2022)</a> : 22.05 ~ 22.10</b></li>
     <ul>
         <li>백엔드 파트의 일부와 사용자 인터페이스 디자인을 담당했습니다.</li>
         <li>해당 프로젝트로 STAC+ 2022에서 생활정보 부문 대상 (중소벤처기업부 장관상) 을 수상하였습니다.</li>
         <li>역량이 부족해 프로젝트에서 큰 역할을 하지는 못했으나, 올바른 협업 방식과 백엔드 구조에 대해서 배울 수 있었습니다.</li>
+    </ul>
+</ul>
+
+<h3>✅ Certifications</h3>
+<ul>    
+    <li><b>AWS Certified Cloud Practitioner : 2023.11</b></li>
+    <ul>
+        <li>AWS의 기초를 단단히 다지고자 취득한 자격증입니다.</li>
     </ul>
 </ul>
 
