@@ -3,25 +3,26 @@
 <h3>👋 About Me</h3>
 
 <ul>
-    <li>I'm Park Chanyoung, Web Backend Developer.</li>
-    <li>I'm also Interested in <b>Web Frontend</b> that can provide awesome UX to users ✨</li>
+    <li>저는 웹 백엔드 개발자이자, DevOps 지망생 <b>박찬영</b>입니다.</li>
+    <li>무언가를 설계하거나 디자인할 때 사용자 경험을 가장 먼저 생각합니다.</li>
 </ul>
 
-<h3>💻 Things that I can do</h3>
+<h3>💻 My Skills</h3>
 <ul>
-    <li>My main language is <b>Python.</b></li>
-    <li>I can build web backend using <b>Django / Flask / FastAPI.</b></li>
-    <li>I can manage database with <b>MySQL / SQLAlchemy</b></li>
-    <li>I can deploy the Application I built using <b>AWS.</b></li>
+    <li>제가 주로 다루는 언어는 <b>Python</b>입니다.</li>
+    <li>Python에서 <b>Flask / FastAPI</b> 프레임워크를 사용해 백엔드 개발을 할 수 있습니다.</li>
+    <li>주로 <b>MySQL + SQLAlchemy</b> 조합으로 데이터베이스를 사용하며, 다른 DBMS도 빠르게 익힐 수 있습니다.</li>
+    <li>Docker / Kubernetes를 사용해 애플리케이션을 배포할 수 있습니다.</li>
+    <li>AWS를 사용해 기본적인 클라우드 아키텍처를 구성하고, 애플리케이션을 배포할 수 있습니다.</li>
 </ul>
 
 <h3>📦 My Projects</h3>
 <ul>    
     <li><b><a href="https://github.com/stastarc">미니마 (STAC+ 2022)</a></b> : 22.05 ~ 22.10</li>
     <ul>
-        <li>Developed <b>Backend Part</b> and Helped <b>User Interface Designing</b>.</li>
-        <li>Got <b>First prize</b> on <b>STAC+ 2022</b> with this project!</li>
-        <li>learned many things about <b>Database, ORM, OOP</b> by this project.</li>
+        <li>백엔드 파트의 일부와 사용자 인터페이스 디자인을 담당했습니다.</li>
+        <li>해당 프로젝트로 STAC+ 2022에서 생활정보 부문 대상 (중소벤처기업부 장관상) 을 수상하였습니다.</li>
+        <li>역량이 부족해 프로젝트에서 큰 역할을 하지는 못했으나, 올바른 협업 방식과 백엔드 구조에 대해서 배울 수 있었습니다.</li>
     </ul>
 </ul>
 
