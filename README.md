@@ -28,9 +28,21 @@
 
 <h3>✅ Certifications</h3>
 <ul>    
-    <li><b>AWS Certified Cloud Practitioner : 2023.11</b></li>
+    <li><b><a href="https://aws.amazon.com/ko/certification/certified-cloud-practitioner/">AWS Certified Cloud Practitioner</a> : 2023.11</b></li>
     <ul>
-        <li>AWS의 기초를 단단히 다지고자 취득한 자격증입니다.</li>
+        <li>클라우드의 기초를 단단히 다지고자 취득한 자격증입니다.</li>
+    </ul>
+    <li><b><a href="https://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=6921">정보처리기능사</a> : 2023.09</b></li>
+    <ul>
+        <li>기초 CS 지식을 다지고자 취득한 자격증입니다.</li>
+    </ul>
+    <li><b><a href="https://aice.study/info/aice/basic">KT AICE Basic</a> : 2023.07</b></li>
+    <ul>
+        <li>AI의 기초에 대해 학습하고, 활용해보기 위해 취득한 자격증입니다.</li>
+    </ul>
+    <li><b><a href="https://www.ihd.or.kr/introducesubject1.do">리눅스마스터 2급</a> : 2023.06</b></li>
+    <ul>
+        <li>리눅스를 보다 잘 활용하고, 몰랐던 리눅스 관련 지식을 얻기 위해 취득한 자격증입니다.</li>
     </ul>
 </ul>
 
