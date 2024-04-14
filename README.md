@@ -13,8 +13,8 @@
     <li>제가 주로 다루는 언어는 <b>Python</b>입니다.</li>
     <li>Python에서 <b>Flask / FastAPI</b> 프레임워크를 사용해 백엔드 개발을 할 수 있습니다.</li>
     <li>주로 <b>MySQL + SQLAlchemy</b> 조합으로 데이터베이스를 사용하며, 다른 DBMS도 빠르게 익힐 자신이 있습니다.</li>
-    <li>Docker / Kubernetes를 사용해 온프레미스 환경에서 애플리케이션을 배포할 수 있습니다.</li>
-    <li>AWS를 사용해 기본적인 클라우드 아키텍처를 구성하고, 애플리케이션을 배포할 수 있습니다.</li>
+    <li><b>Docker / Kubernetes</b>를 사용해 온프레미스 환경에서 애플리케이션을 배포할 수 있습니다.</li>
+    <li><b>AWS</b>를 사용해 기본적인 클라우드 아키텍처를 구성하고, 애플리케이션을 배포할 수 있습니다.</li>
 </ul>
 
 <h3>📦 My Projects</h3>
