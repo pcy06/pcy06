@@ -44,7 +44,7 @@
 <h3>🛠️ Projects</h3>
 <ul>
     <li><b>Guardian Watch WAF</b>: 위협 탐지, 접근 제어 등 보안 기능을 포함한 기업용 WAF 솔루션</li>
-    <li><b>한움</b>: 학교 서비스의 비효율성 해결을 위한 앱, 200명 이상의 사용자 확보</li>
+    <li><b><a href="https://github.com/hansei-hanum">한움</a></b>: 학교 서비스의 비효율성 해결을 위한 앱, 200명 이상의 사용자 확보</li>
 </ul>
 
 <h3>✅ Certifications</h3>
