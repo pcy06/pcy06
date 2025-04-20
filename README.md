@@ -10,7 +10,7 @@
 
 <h3>🔗 Links</h3>
 <ul>
-    <li><a href="https://pcy06.notion.site">📄 Resume</a></li>
+    <li><a href="https://pcy06.notion.site/resume">📄 Resume</a></li>
     <li><a href="https://pcy06.notion.site/portfolio">📁 Portfolio</a></li>
     <li><a href="https://velog.io/@pcy06">📝 Blog (Velog)</a></li>
     <li><a href="https://github.com/pcy06">🐙 GitHub</a></li>
